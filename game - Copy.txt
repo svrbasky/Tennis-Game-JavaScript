@@ -1,0 +1,8 @@
+<html>
+
+Krishna Vijay was here! <b>This text is thick</b> and <i>this text is slanted</i> and this text is normal.
+
+<script>
+	console.log("Hello World!");
+</script>
+</html>
